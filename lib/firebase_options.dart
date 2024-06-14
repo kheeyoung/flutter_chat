@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfI23bpqb_tUxTEBvWj-2m0t14t42Mmoo',
-    appId: '1:354257716840:android:1e8b81c4864232e5631ddd',
+    apiKey: 'API키',
+    appId: 'API ID',
     messagingSenderId: '354257716840',
     projectId: 'fulttercheattest',
     databaseURL: 'https://fulttercheattest-default-rtdb.firebaseio.com',

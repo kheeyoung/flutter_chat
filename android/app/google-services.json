@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "354257716840",
+    "firebase_url": "https://fulttercheattest-default-rtdb.firebaseio.com",
+    "project_id": "fulttercheattest",
+    "storage_bucket": "fulttercheattest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354257716840:android:1e8b81c4864232e5631ddd",
+        "android_client_info": {
+          "package_name": "com.example.cheatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfI23bpqb_tUxTEBvWj-2m0t14t42Mmoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
